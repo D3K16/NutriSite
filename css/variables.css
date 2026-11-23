@@ -1,0 +1,12 @@
+:root {
+  --font-main: 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif;
+  --font-title: 'League Spartan', sans-serif;
+
+  --green-500: #86B472;      
+  --green-300: #86B472B2;    
+  --green-100: #86B47266;    
+  --black: #000000;     
+  --gray: #545454;           
+  --white: #FFFFFF;         
+  --gray-light: #F7F8F7;     
+}
